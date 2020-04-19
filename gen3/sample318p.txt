@@ -1,0 +1,12 @@
+Name	Type		Def.|Ref.
+a	integer	2|27,30
+x	integer	2|5,6,7,8,9,9,9
+p	procedure(char)	3|29
+a(p)	char	3|7,8,8
+b	char	11|27,29
+q	procedure(integer)	12|30
+b(q)	integer	12|18
+a(q)	boolean	13|18,19
+q(q)	integer	14|17,18
+r	procedure	21|28
+c	array[integer]	25|

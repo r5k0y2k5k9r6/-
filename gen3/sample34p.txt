@@ -1,0 +1,4 @@
+Name	Type		Def.|Ref.
+num	integer	2|6,8,10,10,14,16,18,18
+ch	char	2|6,9,14,17
+

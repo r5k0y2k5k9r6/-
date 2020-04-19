@@ -1,0 +1,1 @@
+ERROR:already declared variable. (line:25)
